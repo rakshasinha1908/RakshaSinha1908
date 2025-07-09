@@ -4,7 +4,7 @@
 - 💡 Passionate about solving real-world problems through technology</br>
 - 🔍 Interested in AI, Machine Learning, Frontend Development, and Data Science</br>
 - 🧠 Skilled in Python, JavaScript, Java, SQL, and web technologies like HTML/CSS</br>
-- 🛠️ Experienced with React.js, Flask, Node.js, and MySQL</br>
+- 🛠️ Experienced with React.js, Flask, and MySQL</br>
 - 📊 Comfortable working with data using Pandas, NumPy, and Scikit-learn</br>
 - 🔎 Familiar with web scraping using BeautifulSoup</br>
 - 🤝 Strong problem-solving, communication, and collaboration skills</br>
