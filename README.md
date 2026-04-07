@@ -1,13 +1,11 @@
 <div align="center">
 
-<img width="850" height="25" alt="image" src="https://github.com/user-attachments/assets/c019b53b-82bc-40fc-be05-2597d09850f0" />
+<img width="1000" height="30" alt="image" src="https://github.com/user-attachments/assets/5c665cdb-1b2b-4d41-919e-8491bd32e705" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rakshasinha1908&color=941295&label=Profile+Visits" alt="Profile Visits" width="150"/>
+<img src="https://komarev.com/ghpvc/?username=rakshasinha1908&color=941295&label=Profile+Visits" alt="Profile Visits" width="120"/>
 </div>
-
----
 
 <div align="center">
 
