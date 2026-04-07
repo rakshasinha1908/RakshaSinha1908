@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="740" height="18" alt="image" src="https://github.com/user-attachments/assets/a9c7106c-da24-4177-9f4e-fcc408d10bc4" />
+<img width="1000" height="33" alt="image" src="https://github.com/user-attachments/assets/c019b53b-82bc-40fc-be05-2597d09850f0" />
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=rakshasinha1908&color=941295&label=Profile+Visits" alt="Profile Visits" width="150"/>
