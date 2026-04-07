@@ -1,3 +1,17 @@
+<div align="center">
+
+<img width="1000" height="42" alt="image" src="https://github.com/user-attachments/assets/363b32bb-c53d-4005-a96e-6c1bbc6413ea" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=rakshasinha1908&color=941295&label=Profile+Visits" alt="Profile Visits" width="150"/>
+
+</div>
+
+---
+
+<div align="center">
+
 ## Hi there, I'm Raksha Sinha 👋
 
 - 👩‍💻 Computer Science undergraduate specializing in AI/ML at K.R. Mangalam University</br>
