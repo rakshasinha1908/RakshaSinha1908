@@ -1,31 +1,16 @@
 <div align="center">
 
-<img width="1000" height="42" alt="image" src="https://github.com/user-attachments/assets/363b32bb-c53d-4005-a96e-6c1bbc6413ea" />
-
+<img width="740" height="18" alt="image" src="https://github.com/user-attachments/assets/a9c7106c-da24-4177-9f4e-fcc408d10bc4" />
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=rakshasinha1908&color=941295&label=Profile+Visits" alt="Profile Visits" width="150"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-## Hi there, I'm Raksha Sinha 👋
-
-- 👩‍💻 Computer Science undergraduate specializing in AI/ML at K.R. Mangalam University</br>
-- 💡 Passionate about solving real-world problems through technology</br>
-- 🔍 Interested in AI, Machine Learning, Frontend Development, and Data Science</br>
-- 🧠 Skilled in Python, JavaScript, Java, SQL, and web technologies like HTML/CSS</br>
-- 🛠️ Experienced with React.js, Tailwind CSS, Flask, and MySQL</br>
-- 📊 Comfortable working with data using Pandas, NumPy, and Scikit-learn</br>
-- 🔎 Familiar with web scraping using BeautifulSoup</br>
-- 🤝 Strong problem-solving, communication, and collaboration skills</br>
-- 🌱 Always learning and exploring new tools, frameworks, and challenges</br>
-
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakshasinha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raksha-sinha-7771b8278) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rakshasinha__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakshasinha1908@gmail.com) 
 
 # 💻 Tech Stack:
@@ -33,23 +18,15 @@
 
 # 📊 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshasinha1908&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="160" />
-&nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshasinha1908&theme=radical&hide_border=true" height="160" />
 &nbsp;&nbsp;
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/rakshasinha1908?cardType=level&theme=radical&fontFamily=&preferLogin=false" height="160" />
 
 <br/><br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rakshasinha1908&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rakshasinha1908&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshasinha1908&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
 
----
-[![](https://visitcount.itsvg.in/api?id=rakshasinha1908&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
 
 
 
