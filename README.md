@@ -97,8 +97,6 @@ currently building: AI-Powered Products & Backend Systems
 
 </div>
 
-<br/>
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/rakshasinha1908/rakshasinha1908/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
