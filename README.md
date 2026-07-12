@@ -93,7 +93,7 @@ currently building: AI-Powered Products & Backend Systems
 
 <img src="https://streak-stats.demolab.com/?user=rakshasinha1908&theme=radical&hide_border=true" height="165" />
 
-<br/><br/>
+<br/>
 
 </div>
 
