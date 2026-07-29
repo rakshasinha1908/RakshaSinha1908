@@ -15,7 +15,7 @@
 
 ```yaml
 name: Raksha Sinha
-role: CS Undergraduate, Software Developer
+role: CS Undergrad, Software Developer
 focus:
   - Placement prep — DSA + System Design
   - Shipping side projects end-to-end
