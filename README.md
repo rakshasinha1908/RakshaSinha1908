@@ -20,7 +20,7 @@ focus:
   - Placement prep — DSA + System Design
   - Shipping side projects end-to-end
   - Getting sharper at backend engineering
-status: open to SDE internships
+status: open to SDE internships & Full Time tech based roles
 currently building: AI-Powered Products & Backend Systems
 ```
 
