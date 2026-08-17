@@ -17,7 +17,7 @@
 name: Raksha Sinha
 role: CS Undergrad, Software Developer
 focus:
-  - Placement prep — DSA + System Design
+  - Placement prep — DSA & System Design
   - Shipping side projects end-to-end
   - Getting sharper at backend engineering
 status: open to SDE internships & Full Time tech based roles
