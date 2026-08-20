@@ -57,7 +57,7 @@ currently building: AI-Powered Products & Backend Systems
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flask,fastapi,npm&theme=dark" />
 
-**// databases & deploy**
+**// databases & deployment**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,postman,figma,vercel&theme=dark" />
 
